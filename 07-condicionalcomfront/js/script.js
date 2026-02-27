@@ -1,4 +1,4 @@
-document.getElementById("btnVerificar")
+document.getElementById("btnVerificar").addEventListener("click", verificar);
 
 //função
 function verificar(){
